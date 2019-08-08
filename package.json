@@ -1,0 +1,16 @@
+{
+  "name": "vertaccordcomp",
+  "version": "1.0.0",
+  "description": "A classic vertical accordian item selection web component based on Vue.js (>= 2.5) ",
+  "main": "VertAccordComp.vue",
+  "repository": "git+https://github.com/deandevl/VertAccordComp.git",
+  "keywords": [
+    "Vue.js",
+    "VertAccordComp"
+  ],
+  "author": "'Rick <deanr3@bardstown.com>",
+  "license": "MIT",
+  "dependencies": {
+    "vue": "^2.5.9"
+  }
+}
